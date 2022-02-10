@@ -26,9 +26,16 @@
 
 - 🕹 Interesse em Desenvolvimento de jogos
   
-- 💬 **Flutter, HTML, CSS, SQL, Dart**
-  
 - 🎶 Spotify Profile [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d)
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align="center" alt="-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="-CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+</div>
 
 <br><br>
 <br><br>
@@ -37,14 +44,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GstvMagalhaes&show_icons=true&theme=vision-friendly-dark" alt="GstvMagalhaes's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GstvMagalhaes&layout=compact&theme=vision-friendly-dark" alt="GstvMagalhaes's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=GstvMagalhaes&show_icons=true&theme=vision-friendly-dark" alt="GstvMagalhaes's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GstvMagalhaes&layout=compact&theme=vision-friendly-dark" alt="GstvMagalhaes's most languages"/>
 </p>
 
 <br><br>
 
 
 
-
+![Snake animation](https://github.com/GstvMagalhaes/GstvMagalhaes/blob/output/github-contribution-grid-snake.svg)
 
 
