@@ -2,6 +2,7 @@
 <h1 align="left">Oii, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Sou Gustavo Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GstvMagalhaes&color=blueviolet" alt="Profile views" /> </p>
 😁 &nbsp;Social Links
+<br></br>
 
 <p align="left" style="background:yellow">
 <a href="https://www.twitch.tv/" target="_blank">
@@ -18,15 +19,15 @@
 </a>
 </p>
 
-- 🔥 Iniciante em Web Desenvolvimento & Focado em programação 
+- 🔥 Iniciante em Web Desenvolvimento & Focado em programação; 
 
-- 💻 Experiencia com Manutenção e Reparo de computadores
+- 💻 Experiencia com Manutenção e Reparo de computadores;
 
-- 👨‍💻 Amante de computação e musica
+- 👨‍💻 Amante de computação e musica;
 
-- 🕹 Interesse em Desenvolvimento de jogos
+- 🕹 Interesse em Desenvolvimento de jogos;
   
-- 🎶 Spotify Profile [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d)
+- 🎶 Spotify Profile [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d).
 
 
 <div style="display: inline_block"><br>
@@ -45,8 +46,7 @@
 
 <div align="center">
   <a href="https://github.com/GstvMagalhaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GstvMagalhaes&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GstvMagalhaes&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GstvMagalhaes&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GstvMagalhaes&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
-![Snake animation](https://github.com/GstvMagalhaes/GstvMagalhaes/blob/output/github-contribution-grid-snake.svg)
