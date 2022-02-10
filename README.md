@@ -43,15 +43,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<div align="center">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=GstvMagalhaes&show_icons=true&theme=vision-friendly-dark" alt="GstvMagalhaes's stats"/>
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GstvMagalhaes&layout=compact&theme=vision-friendly-dark" alt="GstvMagalhaes's most languages"/>
-</p>
+</div>
+
 
 <br><br>
-
-
-
-![Snake animation](https://github.com/GstvMagalhaes/GstvMagalhaes/blob/output/github-contribution-grid-snake.svg)
-
-
