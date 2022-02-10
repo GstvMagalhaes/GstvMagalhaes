@@ -33,8 +33,6 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
