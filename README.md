@@ -49,3 +49,5 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=GstvMagalhaes&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GstvMagalhaes&layout=compact&langs_count=7&theme=maroongold"/>
 </div>  
+  
+<img align="right" height="590em" src="https://video.twimg.com/tweet_video/FLrIUuxUUAoWlbd.mp4"/>
