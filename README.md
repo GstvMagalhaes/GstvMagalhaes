@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="https://s4.aconvert.com/convert/p3r68-cdx67/alt8j-an8sb.jpg"/>
-<h1 align="left">Oii, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Sou Gustavo Pereira</h1>
+<img align="right" height="590em" src="https://s4.aconvert.com/convert/p3r68-cdx67/a41ww-y8kjm.jpg"/>
+<h1 align="left">Oii, Sou Gustavo Pereira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GstvMagalhaes&color=blueviolet" alt="Profile views" /> </p> -->
 😁 &nbsp;Social Links
 <br></br>
@@ -27,7 +27,7 @@
 
 - 🕹 Interesse em Desenvolvimento de jogos;
   
-- 🎶 Spotify Profile [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d).
+- 🎶 [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d) Profile 
 
 
 <div style="display: inline_block"><br>
