@@ -1,4 +1,4 @@
-<img align="right" height="600em" src="https://s4.aconvert.com/convert/p3r68-cdx67/abzbi-ls8z8.jpg"/>
+<img align="right" height="600em" src="https://twitter.com/CABAL10298476/status/1504906299129139200/photo/1"/>
 <h1 align="left">Oii, Sou Gustavo Pereira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=GstvMagalhaes&color=blueviolet" alt="Profile views" /> </p> -->
 😁 &nbsp;Social Links
