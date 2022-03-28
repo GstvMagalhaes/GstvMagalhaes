@@ -19,13 +19,11 @@
 </a>
 </p>
 
-- 🔥 Iniciante em Web Desenvolvimento & Focado em programação; 
+- 🔥 Experiencia previa em Web Desenvolvimento HTML/CSS; 
 
 - 💻 Experiencia com Manutenção e Reparo de computadores;
 
-- 👨‍💻 Amante de computação e musica;
-
-- 🕹 Interesse em Desenvolvimento de jogos;
+- 👨‍💻 Interesse e foco em Flutter e Desenvolvimento Mobile;
   
 - 🎶 [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d) Profile 
 
