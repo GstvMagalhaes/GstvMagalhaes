@@ -24,6 +24,8 @@
 - 💻 Experiencia com Manutenção e Reparo de computadores;
 
 - 👨‍💻 Interesse e foco em Flutter e Desenvolvimento Mobile;
+
+- 🖥 Estudando Angular;
   
 - 🎶 [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d) Profile 
 
