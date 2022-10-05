@@ -45,7 +45,7 @@
 <br><br>
 
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/GstvMagalhaes">
@@ -53,6 +53,6 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GstvMagalhaes&layout=compact&langs_count=7&theme=maroongold"/>
 </div>  
 
-##
+## -->
   
 <!-- <img width="1000" height="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/> -->
