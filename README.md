@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/gustavo-pereira-3114a5231/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gustavo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/gstavo__/" target="_blank">
+<a href="https://www.instagram.com/gsstavo__/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gstavo__-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCQnnUivwtsjQACPLyxMMN5w" target="_blank">
@@ -19,13 +19,13 @@
 </a>
 </p>
 
-- 🔥 Experiencia previa em Web Desenvolvimento HTML/CSS; 
+- 🔥 Experiencia em Web Desenvolvimento HTML/CSS; 
 
 - 💻 Experiencia com Manutenção e Reparo de computadores;
 
-- 👨‍💻 Interesse e foco em Flutter e Desenvolvimento Mobile;
+- 👨‍💻 Interesse e foco em Front-End UI/UX;
 
-- 🖥 Estudando Angular;
+- 🖥 Estudando e Trabalhando com Angular;
   
 - 🎶 [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d) Profile 
 
