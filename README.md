@@ -19,14 +19,14 @@
 </a>
 </p>
 
-- 🔥 Experiencia em Web Desenvolvimento HTML/CSS; 
+- 🔥 Experiencia em Web Desenvolvimento AngularTS HTML/CSS; 
 
 - 💻 Experiencia com Manutenção e Reparo de computadores;
 
-- 👨‍💻 Interesse e foco em Front-End UI/UX;
+- 🖥 Experiencia com desenvolvimento mobile Flutter Android/IOS;
 
-- 🖥 Estudando e Trabalhando com Angular;
-  
+- 👨‍💻 Estudando comandos SQL e Modelagem de dados;
+
 - 🎶 [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d) Profile 
 
 
