@@ -25,7 +25,7 @@
 
 - 🖥 Experiencia com desenvolvimento mobile Flutter Android/IOS;
 
-- 👨‍💻 Estudando comandos SQL e Modelagem de dados;
+- 👨‍💻 Estudando MYSQL e Modelagem de dados;
 
 - 🎶 [Spotify](https://open.spotify.com/user/172qtziejjlm9gi48mlsx76vr?si=e26f8eb8da5d4b0d) Profile 
 
